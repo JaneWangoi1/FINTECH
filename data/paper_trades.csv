@@ -1,0 +1,2 @@
+timestamp,symbol,signal,entry,stop_loss,take_profit,sl_pips,tp_pips,lot_size,risk_amount,max_profit,balance,status
+2026-07-16 15:05:54,EURUSD,SHORT,1.1439,1.14705,1.1376,31.5,63.0,0.67,100.0,200.0,10000.0,OPEN
